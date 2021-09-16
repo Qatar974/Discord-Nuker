@@ -1,6 +1,7 @@
 # Discord-Nuker
 Discord Nuker developed by Qatar974
 
+# https://streamable.com/71zlxw
 
 # Commands
 
